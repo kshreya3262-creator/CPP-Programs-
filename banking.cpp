@@ -102,6 +102,7 @@ check.withdraw(1000);
 check.display();
 
 return 0;
+}
 
 
 
